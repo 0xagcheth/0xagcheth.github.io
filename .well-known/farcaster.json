@@ -7,9 +7,9 @@
   "miniapp": {
     "version": "1",
     "name": "cbTAROT",
-    "homeUrl": "https://0xagcheth.github.io/cbTARO/",
-    "iconUrl": "https://0xagcheth.github.io/cbTARO/i.png",
-    "splashImageUrl": "https://0xagcheth.github.io/cbTARO/s.png",
+    "homeUrl": "https://0xagcheth.github.io/cbTAROT/",
+    "iconUrl": "https://0xagcheth.github.io/cbTAROT/i.png",
+    "splashImageUrl": "https://0xagcheth.github.io/cbTAROT/s.png",
     "splashBackgroundColor": "#0b1020",
     "subtitle": "Mystical taro reading on Base",
     "description": "Draw taro cards, explore interpretations, and share your reading on Farcaster.",
@@ -18,9 +18,9 @@
     "tagline": "Reveal your Tarot",
     "ogTitle": "cbTARO — Onchain Tarot Reading",
     "ogDescription": "Draw a taro card and share your mystical reading on Farcaster.",
-    "ogImageUrl": "https://0xagcheth.github.io/cbTARO/og.png",
+    "ogImageUrl": "https://0xagcheth.github.io/cbTAROT/og.png",
     "buttonTitle": "Open cbTAROT",
-    "imageUrl": "https://0xagcheth.github.io/cbTARO/og.png",
-    "castShareUrl": "https://0xagcheth.github.io/cbTARO/share"
+    "imageUrl": "https://0xagcheth.github.io/cbTAROT/og.png",
+    "castShareUrl": "https://0xagcheth.github.io/cbTAROT/share"
   }
 }
