@@ -1,0 +1,13 @@
+{
+  "name": "Burner Bridge",
+  "short_name": "Bridge",
+  "description": "Read-only Burner Card address probe",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101725",
+  "theme_color": "#101725",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
