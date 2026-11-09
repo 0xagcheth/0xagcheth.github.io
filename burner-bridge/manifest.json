@@ -1,68 +1,46 @@
 {
   "name": "BurnerSign",
   "short_name": "BurnerSign",
-  "description": "Mobile wallet for Burner Ethereum hardware cards. Tap your card to connect and manage your crypto.",
-  "start_url": "/",
+  "description": "Hardware signing for your Burner card.",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#FF6B35",
+  "background_color": "#c0c0c0",
+  "theme_color": "#c0c0c0",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "./",
   "lang": "en",
-  "categories": ["finance", "utilities"],
+  "categories": [
+    "finance",
+    "utilities"
+  ],
   "icons": [
     {
-      "src": "/icons/icon-120x120.svg",
+      "src": "icons/icon-120x120.png",
       "sizes": "120x120",
-      "type": "image/svg+xml",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "/icons/icon-180x180.svg",
+      "src": "icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-180x180.png",
       "sizes": "180x180",
-      "type": "image/svg+xml",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "/icons/icon-192x192.svg",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icons/icon-512x512.svg",
+      "src": "icons/icon-512x512.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ],
-  "screenshots": [
-    {
-      "src": "/screenshots/mobile-connect.png",
-      "sizes": "390x844",
-      "type": "image/png",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "/screenshots/mobile-dashboard.png",
-      "sizes": "390x844",
-      "type": "image/png",
-      "form_factor": "narrow"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Connect Wallet",
-      "short_name": "Connect",
-      "description": "Tap your Burner card to connect",
-      "url": "/",
-      "icons": [
-        {
-          "src": "/icons/icon-120x120.svg",
-          "sizes": "120x120"
-        }
-      ]
-    }
-  ],
+  "shortcuts": [],
   "prefer_related_applications": false
 }
