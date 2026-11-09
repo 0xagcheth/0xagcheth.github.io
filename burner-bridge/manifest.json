@@ -1,6 +1,6 @@
 {
-  "name": "OpenBurner - Mobile Wallet",
-  "short_name": "OpenBurner",
+  "name": "BurnerSign",
+  "short_name": "BurnerSign",
   "description": "Mobile wallet for Burner Ethereum hardware cards. Tap your card to connect and manage your crypto.",
   "start_url": "/",
   "display": "standalone",
